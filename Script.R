@@ -8,3 +8,5 @@ z
 a
 b
 c
+total <- x + y + z + a + b + c
+total
